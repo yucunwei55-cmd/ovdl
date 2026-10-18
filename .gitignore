@@ -1,0 +1,23 @@
+# Data, model artifacts and experiment outputs
+/data/
+/datasets/
+training2017/
+Training_WFDB/
+/runs/
+/logs/
+/labels.csv
+/REFERENCE.csv
+*.pth
+*.pt
+*.ckpt
+*.mat
+*.dat
+*.hea
+*.zip
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
